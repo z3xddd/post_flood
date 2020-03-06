@@ -4,8 +4,6 @@
 # by: Israel Comazzetto dos Reis
 # github.com/z3xddd
 
-
-
 import requests
 
 flood = 0
